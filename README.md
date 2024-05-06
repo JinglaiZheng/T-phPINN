@@ -1,8 +1,8 @@
 # T-phPINN:First order time derivative enhanced parallel hard constraints physics-informed neural networks
 
-The code for the paper xxx
+The code for the paper Improved physics-informed neural networks for solving 2D non-Fourier heat conduction equation
 # Code
-(Coming soon)
+The code for solving non-fourier heat conduction equation by hPINN based on deepxde in main.py
 
 
 
